@@ -1,4 +1,4 @@
-EchartsProRails [![Gem Version][version-badge]][rubygems]
+EchartsProRails 
 =============
 
 百度 echart(4.0) js库。没有见最新版的，自己做了个，方便使用。
