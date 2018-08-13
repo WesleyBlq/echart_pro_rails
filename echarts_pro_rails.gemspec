@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{echart of Baidu gem in rails}
   spec.description   = %q{javascript lib using echart lib.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/taotaochanghe/echart_pro_rails"
   spec.license       = "MIT"
   
 end
